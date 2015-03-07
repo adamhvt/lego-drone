@@ -1,0 +1,14 @@
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\bin\Debug\LegoBoatCs.exe.config
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\bin\Debug\LegoBoatCs.exe
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\bin\Debug\LegoBoatCs.pdb
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.csprojResolveAssemblyReference.cache
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.Form1.resources
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.Properties.Resources.resources
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.csproj.GenerateResource.Cache
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.exe
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.pdb
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\bin\Debug\Ice.dll
+D:\_desktop\lego_project\LegoBoatCs\LegoBoatCs\bin\Debug\Ice.xml
+C:\Users\Twist\Desktop\LegoBoatCs\LegoBoatCs\LegoBoatCs\bin\Debug\LegoBoatCs.exe.config
+C:\Users\Twist\Desktop\LegoBoatCs\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.exe
+C:\Users\Twist\Desktop\LegoBoatCs\LegoBoatCs\LegoBoatCs\obj\Debug\LegoBoatCs.pdb
